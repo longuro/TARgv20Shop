@@ -10,7 +10,7 @@ using Targv20Shop.Data;
 namespace Targv20Shop.Data.Migrations
 {
     [DbContext(typeof(Targv20ShopDbContext))]
-    [Migration("20220212184118_Data")]
+    [Migration("20220417011802_Data")]
     partial class Data
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
